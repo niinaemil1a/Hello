@@ -1,0 +1,1 @@
+Tällä kurssilla opetellaan git versionhallinnan perusteet.
